@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ej0i1isvx-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ej0i1isvx-python-gitops
